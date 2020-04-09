@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MealBox</string>
+    <string name="hellouser">HelloUser</string>
+    <string name="buttton1">Button</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="confirmpasswrord">ConfirmPasswrord</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_second_name">Enter Second Name</string>
+</resources>
